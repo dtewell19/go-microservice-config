@@ -1,5 +1,5 @@
 server_port: 6767
-server_name: Accountservice test
+server_name: nonsense
 the_password: '{cipher}AQASMalJ1GVUs/ZYiWcHK/WiiYfrt4UmJWfSxLZ/aJyjBngXHzwiTAIZcUaO5PR4ln0L8e7R6bql3xkn+3M0U5at/pwPNum9ovinofYgMHD1ws6xUSLWyuD/rSxIfoc8Kxksn9pzIPafqdbS96or57szIkn+3XMFNmINqYBNNXl8vo/p2dDasTU9msaGLH3GKNXPjMtqlPA/8iZuaVxWEmg77c/D1eUQMzgh2xe7lT/bl34aFZszJtlMZ+feGs86k+7qWPTmiBPH0iA/73GS8443P0SlodxWSU3WI/94EYsIeF/Jvk5eve6SX0r2xr8GtiQQU/0Ng7pCF0ZwflgM7CM7I8sfAdZ6vOnhDkWgnG4Ho9OBD63uB54G8U0NDLsbGII='
 amqp_server_url: amqp://guest:guest@rabbitmq:5672/
 config_event_bus: springCloudBus
